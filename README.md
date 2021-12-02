@@ -1,4 +1,4 @@
-## Hi there 👋, I am Tejesh!
+## <img src="wave.gif" width="29px"> Hi, I am Tejesh!
 
   - 🖱 I’m currently working as a Software Engineer in Pune, India
   - 🌱 Always Learning...  
