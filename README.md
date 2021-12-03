@@ -32,11 +32,11 @@
   
 ### <img src="https://emojis.slackmojis.com/emojis/images/1618700074/31105/lifeline.gif?1618700074" width="25px"> &nbsp; GitHub Stats
 <a href="https://github.com/IMTejesh95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMTejesh95&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMTejesh95&show_icons=true&line_height=27&count_private=true&title_color=22272e&icon_color=0e68c1&bg_color=a9b1bbd1" alt="My GitHub Stats" />
 </a>
   <br><br>
 <a href="https://github.com/IMTejesh95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTejesh95&hide=TeX&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTejesh95&hide=TeX&layout=compact&line_height=27&show_icons=true&line_height=27&count_private=true&title_color=22272e&icon_color=0e68c1&bg_color=a4acb69e" alt="My GitHub Stats" />
 </a> 
 <hr/>
 
