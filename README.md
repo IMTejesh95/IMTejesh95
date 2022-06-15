@@ -20,7 +20,7 @@
 <hr/>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1515721994/3369/typing.gif?1515721994" width="25px" height="25px" > &nbsp; How to reach me:
-<a href="https://www.linkedin.com/in/tejesh-chauragade-771112123">
+<a href="https://www.linkedin.com/in/imtejesh95">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-black?logo=linkedin&style=social" alt="linkedin" />
 </a>
 &nbsp;
