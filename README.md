@@ -24,8 +24,12 @@
   <img align="center" src="https://img.shields.io/badge/-Linkedin-black?logo=linkedin&style=social" alt="linkedin" />
 </a>
 &nbsp;
-<a href="mailto:chauragade.tejesh@gmail.com">
+<a href="https://tejeshchauragade.me">
   <img align="center" src="https://img.shields.io/badge/-Gmail-black?logo=gmail&style=social" alt="gmail" />
+</a>
+&nbsp;
+<a href="mailto:chauragade.tejesh@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/-Portfolio-black?logo=website&style=social" alt="portfolio" />
 </a>
 
 <hr/>
