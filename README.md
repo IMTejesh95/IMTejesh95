@@ -34,7 +34,7 @@
 
 <hr/>
   
-### <img src="https://emojis.slackmojis.com/emojis/images/1618700074/31105/lifeline.gif?1618700074" width="25px" height="25px" > &nbsp; GitHub Stats
+<!-- ### <img src="https://emojis.slackmojis.com/emojis/images/1618700074/31105/lifeline.gif?1618700074" width="25px" height="25px" > &nbsp; GitHub Stats
 <a href="https://github.com/IMTejesh95">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=IMTejesh95&show_icons=true&line_height=27&count_private=true&title_color=00297a&text_color=000000&icon_color=00297a&bg_color=dce3e6&border_color=dce3e6&border_radius=15px&include_all_commits=true" alt="My GitHub Stats" />
 </a>
@@ -42,7 +42,7 @@
 <a href="https://github.com/IMTejesh95">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTejesh95&hide=TeX&layout=compact&line_height=27&show_icons=true&line_height=27&count_private=true&title_color=00297a&text_color=000000&icon_color=00297a&bg_color=dce3e6&border_color=dce3e6&border_radius=15px" alt="My GitHub Stats" />
 </a> 
-<hr/>
+<hr/> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IMTejesh95.IMTejesh95)
   
