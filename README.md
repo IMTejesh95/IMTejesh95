@@ -1,7 +1,7 @@
 ## <img src="wave.gif" width="25px" height="25px"> Hi, I am Tejesh!
 
   - I’m currently working as a Software Engineer in Pune, India
-  - Check out my <a href="https://tejeshchauragade.me" target="_blank">Portfolio</a>
+  - Check out my <a href="https://tejesh.online" target="_blank">Portfolio</a>
   - 🌱 Always Learning...  
   - <img src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" width="16px" height="16px"> Fan of Star Wars. May the force be with you!  <img src="https://emojis.slackmojis.com/emojis/images/1584740072/8299/babyyoda1.png?1584740072" width="25px" height="25px">
 
