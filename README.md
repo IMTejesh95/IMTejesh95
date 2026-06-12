@@ -29,7 +29,7 @@
   <img align="center" src="https://img.shields.io/badge/-Gmail-black?logo=gmail&style=social" alt="gmail" />
 </a>
 &nbsp;
-<a href="https://tejeshchauragade.me/">
+<a href="https://tejesh.online/">
   <img align="center" src="https://img.shields.io/badge/-Portfolio-black?logo=website&style=social" alt="portfolio" />
 </a>
 
